@@ -1,0 +1,6 @@
+------------------------------------------------------ install angular----------------------------------------------------------------
+npm install -g @angular/cli
+npm config set registry http://registry.npmjs.org/(proxy issue)
+ng -v
+------------------------------------------------------ Create angular project----------------------------------------------------------------
+ng new <project name>
